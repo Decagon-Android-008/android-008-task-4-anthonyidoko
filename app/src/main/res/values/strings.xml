@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeekFourTask</string>
+    <string name="upcoming_birthdays">Upcoming Birthdays</string>
+    <string name="ola_machiavielli">Ola Machiavielli</string>
+    <string name="_20_10_202">20.10.202</string>
+    <string name="yaay">Yaay!</string>
+    <string name="it_s_victor_s_birthday">It\'s Victor\'s Birthday</string>
+    <string name="main_image">Main Image</string>
+    <string name="special_image">Special Image</string>
+    <string name="it_is_victor_birthday">It is victor birthday</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="_1">1</string>
+    <string name="search_for_celebrants">Search for celebrants...</string>
+    <string name="home">Home</string>
+    <string name="people">People</string>
+    <string name="gifts">Gifts</string>
+</resources>
